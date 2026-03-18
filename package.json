@@ -1,0 +1,19 @@
+{
+  "name": "node-js-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaCepinov/node-js.git"
+  },
+  "author": "Nikita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikitaCepinov/node-js/issues"
+  },
+  "homepage": "https://github.com/NikitaCepinov/node-js#readme",
+  "description": ""
+}
